@@ -17,12 +17,17 @@ This blog explains about how to create Techzone collection
 
 4. Enter the highlighted field values.
 
-5. Click on `Resources`
+5. Click on `Add a Resources` to add your tile for your assets/blogs/links/videos/etc
 
 <img src="images/image-13.png">
 <img src="images/image-14.png">
 
 6. Enter the highlighted field values for your first tile.
+
+- Resource Title : Title for your asset
+- Short Businesss Value Statement : Description of your asset
+- Resource Type : Can be a link, which points to your asset.
+- Resource URL : URL of your asset.
 
 7. Click on `Save`
 
@@ -38,7 +43,10 @@ This blog explains about how to create Techzone collection
 11. Tiles got added like this.
 <img src="images/image-17.png">
 
-12. Enter the highlighted field values for your collection.
+12. Continue entering highlighted field values for your collection.
+
+- Collection Status : Keep it as `Draft` until you verify entire content.
+
 13. Click on `Save`
 
 <img src="images/image-18.png">
